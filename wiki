@@ -2,3 +2,4 @@ command -v python > /dev/null 2>&1 || { echo >&2 -e "\e[1;32m[*]\e[1;39m Instala
 command -v wget > /dev/null 2>&1 || { echo >&2 -e "\e[1;32m[*]\e[1;39m Instalando Wget..."; pkg install wget -y;}
 python source/art/banner0
 python source/lib/.readpy
+print(" Ngafa-Pró Anonymous ")
